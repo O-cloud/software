@@ -8,7 +8,7 @@
     -  Flutter内置的精美Material Design和Cupertino（iOS-flavor）小部件，
        丰富的运动API，流畅的自然滚动以及平台意识使用户满意。
 
--**原生表现**
+- **原生表现**
    -  Flutter的小部件结合了所有关键的平台差异，例如滚动，
       导航，图标和字体，以在iOS和Android上提供完整的原生表现。
     
